@@ -38,7 +38,6 @@ public class CityDaoImpl implements ICityDao{
 		for(CityVO vo:list){
 			System.out.println(vo.getCityName());
 		}
-		System.out.println("branch 3");
-		System.out.println("branch 3");
+		System.out.println("master");
 	}
 }
