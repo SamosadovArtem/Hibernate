@@ -39,5 +39,6 @@ public class CityDaoImpl implements ICityDao{
 			System.out.println(vo.getCityName());
 		}
 		System.out.println("Local master2");
+		System.out.println("Local master3");
 	}
 }
