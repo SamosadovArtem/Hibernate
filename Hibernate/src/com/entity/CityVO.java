@@ -2,7 +2,7 @@ package com.entity;
 
 import javax.transaction.Synchronization;
 
-public class CityVO{
+public class CityVO{   
 	private Integer cityId;
 	private String cityName;
 	public Integer getCityId() {
