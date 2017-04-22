@@ -38,7 +38,29 @@ public class CityDaoImpl implements ICityDao{
 		for(CityVO vo:list){
 			System.out.println(vo.getCityName());
 		}
+	}
+
+	@Override
+	public void insert(Object vo) {
+		// TODO Auto-generated method stub
 		
-		System.out.println("dddd");
+	}
+
+	@Override
+	public void update(Object vo) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public void delete(Object vo) {
+		// TODO Auto-generated method stub
+		
+	}
+
+	@Override
+	public Object findByPrimaryKey(Object PK) {
+		// TODO Auto-generated method stub
+		return null;
 	}
 }
