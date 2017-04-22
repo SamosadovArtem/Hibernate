@@ -1,2 +1,2 @@
-# firstJava
-Hello world java
+# Hibernate
+Hibernate connection
